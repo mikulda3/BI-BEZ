@@ -1,3 +1,3 @@
-# template
+# BI-BEZ
 
-Empty structure for lab tasks
+My solutions to homework in BI-BEZ.
